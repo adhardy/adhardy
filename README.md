@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welome!
+
+My name is Adam, I have a background in Chemistry with a PhD in Computational Chemistry from Heriot Watt University. I'm currently learning data science, machine learning and AI. 
 
 <!--
 **adhardy/adhardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
