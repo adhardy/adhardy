@@ -1,4 +1,4 @@
-### Welome!
+### Welcome!
 
 My name is Adam, I have a background in Chemistry with a PhD in Computational Chemistry from Heriot Watt University. I'm currently learning data science, machine learning and AI. 
 
